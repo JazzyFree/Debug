@@ -1,0 +1,6 @@
+﻿  Skynet HK-Aerial.cpp
+c:\users\jasmine clark\source\repos\skynet hk-aerial\skynet hk-aerial\skynet hk-aerial.cpp(16): error C2065: 'searchGridLowNumber': undeclared identifier
+c:\users\jasmine clark\source\repos\skynet hk-aerial\skynet hk-aerial\skynet hk-aerial.cpp(21): warning C4129: 'G': unrecognized character escape sequence
+c:\users\jasmine clark\source\repos\skynet hk-aerial\skynet hk-aerial\skynet hk-aerial.cpp(22): warning C4129: 'T': unrecognized character escape sequence
+c:\users\jasmine clark\source\repos\skynet hk-aerial\skynet hk-aerial\skynet hk-aerial.cpp(23): warning C4129: 'S': unrecognized character escape sequence
+c:\users\jasmine clark\source\repos\skynet hk-aerial\skynet hk-aerial\skynet hk-aerial.cpp(24): warning C4129: '=': unrecognized character escape sequence

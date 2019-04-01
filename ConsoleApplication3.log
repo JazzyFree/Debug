@@ -1,0 +1,6 @@
+﻿  ConsoleApplication3.cpp
+c:\users\jasmine clark\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(38): warning C4129: 'G': unrecognized character escape sequence
+c:\users\jasmine clark\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(39): warning C4129: 'T': unrecognized character escape sequence
+c:\users\jasmine clark\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(40): warning C4129: 'S': unrecognized character escape sequence
+c:\users\jasmine clark\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(41): warning C4129: '=': unrecognized character escape sequence
+  ConsoleApplication3.vcxproj -> C:\Users\Jasmine Clark\source\repos\ConsoleApplication3\Debug\ConsoleApplication3.exe
